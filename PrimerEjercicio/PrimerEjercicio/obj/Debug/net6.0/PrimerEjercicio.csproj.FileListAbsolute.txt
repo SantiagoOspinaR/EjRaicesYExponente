@@ -1,0 +1,14 @@
+C:\ReposiLogic\EjRaicesYExponentes\PrimerEjercicio\PrimerEjercicio\bin\Debug\net6.0\PrimerEjercicio.exe
+C:\ReposiLogic\EjRaicesYExponentes\PrimerEjercicio\PrimerEjercicio\bin\Debug\net6.0\PrimerEjercicio.deps.json
+C:\ReposiLogic\EjRaicesYExponentes\PrimerEjercicio\PrimerEjercicio\bin\Debug\net6.0\PrimerEjercicio.runtimeconfig.json
+C:\ReposiLogic\EjRaicesYExponentes\PrimerEjercicio\PrimerEjercicio\bin\Debug\net6.0\PrimerEjercicio.dll
+C:\ReposiLogic\EjRaicesYExponentes\PrimerEjercicio\PrimerEjercicio\bin\Debug\net6.0\PrimerEjercicio.pdb
+C:\ReposiLogic\EjRaicesYExponentes\PrimerEjercicio\PrimerEjercicio\obj\Debug\net6.0\PrimerEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReposiLogic\EjRaicesYExponentes\PrimerEjercicio\PrimerEjercicio\obj\Debug\net6.0\PrimerEjercicio.AssemblyInfoInputs.cache
+C:\ReposiLogic\EjRaicesYExponentes\PrimerEjercicio\PrimerEjercicio\obj\Debug\net6.0\PrimerEjercicio.AssemblyInfo.cs
+C:\ReposiLogic\EjRaicesYExponentes\PrimerEjercicio\PrimerEjercicio\obj\Debug\net6.0\PrimerEjercicio.csproj.CoreCompileInputs.cache
+C:\ReposiLogic\EjRaicesYExponentes\PrimerEjercicio\PrimerEjercicio\obj\Debug\net6.0\PrimerEjercicio.dll
+C:\ReposiLogic\EjRaicesYExponentes\PrimerEjercicio\PrimerEjercicio\obj\Debug\net6.0\refint\PrimerEjercicio.dll
+C:\ReposiLogic\EjRaicesYExponentes\PrimerEjercicio\PrimerEjercicio\obj\Debug\net6.0\PrimerEjercicio.pdb
+C:\ReposiLogic\EjRaicesYExponentes\PrimerEjercicio\PrimerEjercicio\obj\Debug\net6.0\PrimerEjercicio.genruntimeconfig.cache
+C:\ReposiLogic\EjRaicesYExponentes\PrimerEjercicio\PrimerEjercicio\obj\Debug\net6.0\ref\PrimerEjercicio.dll
